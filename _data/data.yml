@@ -100,7 +100,7 @@ experience:
           role: General Manager
           location: East Anglia
           description: |
-              Designed and manage operations for independent food businesses.
+              Designed and managed operations for independent food businesses.
               + Product management for food and drink retail and hospitality
               + Business development and management
               + Complex supply chain implementation
@@ -132,20 +132,18 @@ project:
         - name: Brielievers
           link: "https://cheese-frontend-nu.vercel.app/"
           tags: Full-stack, Team, Development, MERN, Agile
-          date: 2023
           description: |
               A cheese Sommelier app for users to rate, view and get recommendations on over 800 international cheeses. Written using the MERN stack with a bespoke Atlas database of cheeses. Working in a team of five, we used Agile methodologies to deliver a full-stack app in two weeks.
               + Front end written in React with Material UI styling
-              + Back end written in Node.js with Express, interacting with a bespoke MongoDB database of cheeses as well as a collection for users and ratings.
+              + Back end written in Node.js with Express, interacting with a bespoke MongoDB database of cheeses as well as a collection for users and ratings
 
-        # - name: OSS project
-        #   link:
-        #   tags: committer
-        #   date:
-        #   description: |
-        #       OSS project description...
-        #       + First
-        #       + Second
+        - name: Gig List
+          link: "https://gig-list.onrender.com"
+          tags: Front-end, React, Vite
+          description: |
+              A front-end application for listing and favouriting gigs supplied by a static backend
+              + Interactive favouriting feature implemented on single event page
+              + Favourites stored in client specific storage
 
 skill:
     show: false
