@@ -12,9 +12,9 @@ contact:
     phone: +44 7986 967170 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
     # website: example.com # site URL without schema, like example.com, will automatically prepand "https://"
 
-    gender: Male # gender or pronoun
+    # gender: Male # gender or pronoun
     birthday: 15-07-1990 # birthday
-    nationality: British # nationality
+    # nationality: British # nationality
     # visa: # passport visa
     # drivinglicense: # driving licence
 
@@ -28,7 +28,7 @@ contact:
     # threema: # userid            | https://threema.id/userid
 
     # programmer
-    github: https://github.com/iamsahm # username          | https://github.com/username
+    github: iamsahm # username          | https://github.com/username
     # gitlab: # username          | https://gitlab.com/username
     # bitbucket: # username          | https://bitbucket.com/username
     # stackoverflow: # id or id/username | https://stackoverflow.com/users/id/username
