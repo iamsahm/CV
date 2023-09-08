@@ -88,7 +88,7 @@ profile:
 experience:
     show: true
     order: 3
-    title: Experiences
+    title: Experience
     description: |
         Previous to my career change, I worked extensively in the food & drink industry, both managing and developing products and businesses in retail and hospitality. The frustrations I had using the tech available to that sector were part of the motivation I used to seek a career in software development, coupled with my curiosity surrounding problem-solving, my furtive imagination, and my drive to make the tedious bits of life less tedious. I have always been interested in tech, and pursuing this career even before working on this boot camp further clarified that my natural logic and skill set are well aligned with the requirements of software development.
 
@@ -340,18 +340,14 @@ language:
           level: Professional
 
 interest:
-    show: false
+    show: true
     order: 12
     title: Interests
     description: |
-        The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
-
-        Including an interest section in your resume can be helpful if your interests are relevant to the job you are applying for, such as if you are applying for a job in a creative field and your hobbies include painting or writing. It can also be useful if you are applying for a job where teamwork or social skills are important, and you can mention interests that demonstrate those qualities.
-
-        However, it is important to be selective when including an interest section in your resume, and to choose interests that are appropriate and professional. Avoid including controversial or potentially offensive interests, and focus on interests that showcase your positive qualities and strengths.
+        avid music fan, performer, foodie, cook, reader, cyclist, hobbyist smoker, and coffee enthusiast.
 
     items:
-        - item: Reading
+        - item: Playing music (grade 8 Double Bass, grade 7 Piano, grade 6 music theory, grade 6 drum kit)
           link: "#"
         - item: Cooking
           link:
