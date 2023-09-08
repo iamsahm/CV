@@ -20,7 +20,7 @@ contact:
 
     # contact
     # wechat: # username
-    whatsapp: +44 7986 967170 # 8611122223333     | https://wa.me/8611122223333
+    # whatsapp: +44 7986 967170 # 8611122223333     | https://wa.me/8611122223333
     # telegram: # username          | https://t.me/username
     # messenger: # username          | https://m.me/username
     # line: # lineid            | https://line.me/R/ti/p/@lineid
@@ -34,7 +34,7 @@ contact:
     # stackoverflow: # id or id/username | https://stackoverflow.com/users/id/username
     # leetcode: # username          | https://leetcode.com/username
     # codeforces: # username          | https://codeforces.com/profile/username
-    codewars: https://www.codewars.com/users/iamsahm # username          | https://www.codewars.com/users/username
+    # codewars: https://www.codewars.com/users/iamsahm # username          | https://www.codewars.com/users/username
     # codepen: # username          | https://codepen.io/username
     # tryhackme: # username          | https://tryhackme.com/p/username
 
@@ -47,7 +47,7 @@ contact:
 
     # writer
     # devto: # username          | https://dev.to/username
-    medium: https://medium.com/@sam.ryan101 # username          | https://medium.com/@username
+    medium: sam.ryan101 # username          | https://medium.com/@username
     # wordpress: # username          | https://username.wordpress.com
     # blogger: # username          | https://username.blogspot.com
     # wikipedia: # username          | https://www.wikipedia.org/wiki/User:username
@@ -60,7 +60,7 @@ contact:
 
     # other cv
     linkedin: https://www.linkedin.com/in/sam-ryan-6144587a/ # username          | https://linkedin.com/in/username
-    indeed: https://profile.indeed.com/p/samr-gx6y4pb # resumeid          | https://my.indeed.com/p/resumeid
+    # indeed: https://profile.indeed.com/p/samr-gx6y4pb # resumeid          | https://my.indeed.com/p/resumeid
     # xing: # username          | https://www.xing.com/profile/username
     # fiverr: # username          | https://www.fiverr.com/username
     # freelancer: # username          | https://www.freelancer.com/u/username
