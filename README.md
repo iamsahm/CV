@@ -1,10 +1,11 @@
-<a href="https://iamsahm.github.io/CV/"> <h1 align="center">Sam Ryan online CV</h1>
+ <h1 align="center">Sam Ryan online CV</h1>
 
 <p align="center">
+<a href="https://iamsahm.github.io/CV/">
 Click here to view my online CV
 https://iamsahm.github.io/CV/
-</p>
 </a>
+</p>
 
 <h4 align="center">Curriculum Vitae for </h4>
 
