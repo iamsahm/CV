@@ -4,10 +4,9 @@
 <a href="https://iamsahm.github.io/CV/">
 Click here to view my online CV
 https://iamsahm.github.io/CV/
+<h4 align="center">Curriculum Vitae for Sam Ryan </h4>
 </a>
 </p>
-
-<h4 align="center">Curriculum Vitae for </h4>
 
 ---
 
