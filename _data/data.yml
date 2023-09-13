@@ -96,7 +96,7 @@ experience:
         - company: WD Restaurant Group, Fancett's Bistro, Meadows LTD, Culinaris & self-employed side-hustle SamBakes
           link:
           tags: Development, Management, Hospitality, Retail
-          date: 2015 - 2023
+          date: 2015 - 23
           role: General Manager
           location: East Anglia
           description: |
@@ -107,7 +107,7 @@ experience:
 
         - company: Chapel Studios, AIR Studios, Abbey Road Studios, Big Red Recording, Tesseract, Navene K and Animals as Leaders
           link:
-          date: 2010 - 2015
+          date: 2010 - 15
           role: Recording Engineer
           location: UK
           description: |
@@ -169,7 +169,7 @@ education:
 
     items:
         - institution: University of Surrey
-          date: 2009 - 2013
+          date: 2009 - 13
           major: Music and Sound Recording
           degree: BSc
           description: |
