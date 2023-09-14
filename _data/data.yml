@@ -8,8 +8,8 @@ basic:
 contact:
     # meta
     location: Norwich, UK # location
-    email: sam.ryan101@gmail.com # email address
-    phone: +44 7986 967170 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+    # email: sam.ryan101@gmail.com # email address
+    # phone: +44 7986 967170 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
     # website: example.com # site URL without schema, like example.com, will automatically prepand "https://"
 
     # gender: Male # gender or pronoun
