@@ -83,14 +83,7 @@ profile:
     order: 1
     title: Profile
     description: |
-        I am a full-stack software developer pursuing a career with forward-thinking, dynamic people. I want
-to build solutions for real-world problems within a team that supports and nurtures growth and success. I
-want to join a company that promotes lateral thinking and encourages input from all perspectives to
-develop well-rounded, user-friendly software.
-I have experience managing teams and developing products across various disciplines. It is satisfying to
-demonstrate these skills in a team environment, delivering efficient and effective solutions to make the
-tedious bits of life less tedious.
-
+        I am a full-stack software developer pursuing a career with forward-thinking, dynamic people. I want to build solutions for real-world problems within a team that supports and nurtures growth and success. I want to join a company that promotes lateral thinking and encourages input from all perspectives to develop well-rounded, user-friendly software. I have experience managing teams and developing products across various disciplines. It is satisfying to demonstrate these skills in a team environment, delivering efficient and effective solutions to make the tedious bits of life less tedious.
 
 experience:
     show: true
