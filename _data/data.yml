@@ -97,7 +97,7 @@ experience:
     order: 3
     title: Experience
     description: |
-        Previous to my career change, I worked extensively in the food & drink industry, both managing and developing products and businesses in retail and hospitality. The frustrations I had using the tech available to that sector were part of the motivation I used to seek a career in software development, coupled with my curiosity surrounding problem-solving, my furtive imagination, and my drive to make the tedious bits of life less tedious.
+        I have extensive in the food & drink industry, both managing and developing products and businesses in retail and hospitality. The frustrations I had using the tech available to that sector were part of the motivation I used to seek a career in software development, coupled with my curiosity surrounding problem-solving, my furtive imagination, and my drive to make the tedious bits of life less tedious. I have recently completed a fixed term internship at Yearbook Machine, where I was able to apply my skills in a professional environment and learn from a team of experienced developers.
 
     items:
         - company: Yearbook Machine
@@ -137,8 +137,8 @@ project:
     order: 2
     title: Projects
     description: |
-        Experienced with TDD, pair programming, JavaScript/MERN, Python/Flask, SQL and NOSQL databasing with Postgres/MongoDB/Mongoose, Agile methodologies, Git version control. Studying with Makers has given me a solid foundation in software development built in object-oriented programming using test-driven development and pair programming. Having managed teams in my earlier career and being comfortable working online, I have naturally fallen into roles leading retros and proactivity in projects.
-
+        I believe in language-agnostic development, where the application governs the tool. In my most recent role, I developed across a range of languages with several interconnected services. Good developers write good code regardless of the technology. 
+I have experience writing Javascript, Python, and PHP in full-stack applications using a variety of frameworks and associated tools, including CI/CD with Circle CI, containerised development with Docker, TDD/E2E testing with Jest, PHPUnit & Cypress, NoSQL (MongoDB) and SQL (MySQL, Postgres) databases.
     items:
         - name: Brielievers
           link: "https://cheese-frontend-nu.vercel.app/"
@@ -185,7 +185,7 @@ evaluation:
     order: 13
     title: Self-evaluation
     description: |
-        I am a highly collaborative and communicative individual, I am extremely motivated by efficient problem-solving and seek to inspire as much as be inspired by a team. Comfortable in leadership roles as well as being a team player, I am always looking to learn in any aspect of my life. I am a strong believer in diverse teams and welcome input from any perspective. Although I am young in this industry, I have a strong work ethic, a drive to excel and a thirst for knowledge.
+        I am a highly collaborative and communicative individual, I am extremely motivated by efficient problem-solving and seek to inspire as much as be inspired by a team. Comfortable in leadership roles as well as being a team player, I am always looking to learn in any aspect of my life. I am a big believer in the benefits of a diverse team and welcome input from any perspective. Although I am young in this industry, I have a strong work ethic, a drive to excel and a thirst for knowledge.
 
 education:
     show: true
