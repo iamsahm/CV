@@ -144,7 +144,7 @@ project:
           link: "https://github.com/iamsahm/Lighthouse-BF"
           tags: Automation, Reporting, Accessibility
           description: |
-          A lightweight Javascript application that automates the running of Lighthouse reports on a list of URLs and outputs the results to an HTML file for easy sharing and comparison.
+              A lightweight Javascript application that automates the running of Lighthouse reports on a list of URLs and outputs the results to an HTML file for easy sharing and comparison.
         - name: Gig List
           link: "https://github.com/iamsahm/gig-list"
           tags: Front-end, React, Vite
