@@ -100,8 +100,7 @@ experience:
           role: Junior Developer/Project Manager
           location: Remote (London)
           description: |
-              I joined Yearbook Machine on a short-term contract to handle smaller tickets and implement plans for
-              longer-term development. 
+              I joined Yearbook Machine on a short-term contract to handle smaller tickets and implement plans for longer-term development. 
               + I learned the codebase quickly, contributing my first fix within a month. In this case, using my experience with Cypress to improve their tests and CI pipeline.
               + I undertook project management tasks, where I successfully executed plans for several medium-term projects that had been pending development. I was able to work alongside the other developers at the company to deliver four new features, and I completed my internship, leaving behind a strong foundation for the continuation of several other projects.
 
@@ -130,8 +129,7 @@ project:
     order: 2
     title: Projects
     description: |
-        I believe in language-agnostic development, where the application governs the tool. In my most recent role, I developed across a range of languages with several interconnected services. Good developers write good code regardless of the technology. 
-I have experience writing Javascript, Python, and PHP in full-stack applications using a variety of frameworks and associated tools, including CI/CD with Circle CI, containerised development with Docker, TDD/E2E testing with Jest, PHPUnit & Cypress, NoSQL (MongoDB) and SQL (MySQL, Postgres) databases.
+        I believe in language-agnostic development, where the application governs the tool. In my most recent role, I developed across a range of languages with several interconnected services. Good developers write good code regardless of the technology. I have experience writing Javascript, Python, and PHP in full-stack applications using a variety of frameworks and associated tools, including CI/CD with Circle CI, containerised development with Docker, TDD/E2E testing with Jest, PHPUnit & Cypress, NoSQL (MongoDB) and SQL (MySQL, Postgres) databases.
     items:
         - name: Brielievers
           link: "https://cheese-frontend-nu.vercel.app/"
