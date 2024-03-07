@@ -8,8 +8,8 @@ basic:
 contact:
     # meta
     location: Norwich, UK # location
-    # email: sam.ryan101@gmail.com # email address
-    # phone: +44 7986 967170 # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+    # email:  # email address
+    # phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
     # website: example.com # site URL without schema, like example.com, will automatically prepand "https://"
 
     # gender: Male # gender or pronoun
@@ -20,7 +20,7 @@ contact:
 
     # contact
     # wechat: # username
-    # whatsapp: +44 7986 967170 # 8611122223333     | https://wa.me/8611122223333
+    # whatsapp:  # 8611122223333     | https://wa.me/8611122223333
     # telegram: # username          | https://t.me/username
     # messenger: # username          | https://m.me/username
     # line: # lineid            | https://line.me/R/ti/p/@lineid
@@ -83,7 +83,14 @@ profile:
     order: 1
     title: Profile
     description: |
-        I am an enthusiastic, engaged, and inspired software developer, recently graduated from Makers Academy full-stack boot camp. Heavily solutions driven and with a passion for problem-solving, I am looking for a role where I can continue to learn and grow as a developer, and contribute to a team that is working to make a positive impact on the world.
+        I am a full-stack software developer pursuing a career with forward-thinking, dynamic people. I want
+to build solutions for real-world problems within a team that supports and nurtures growth and success. I
+want to join a company that promotes lateral thinking and encourages input from all perspectives to
+develop well-rounded, user-friendly software.
+I have experience managing teams and developing products across various disciplines. It is satisfying to
+demonstrate these skills in a team environment, delivering efficient and effective solutions to make the
+tedious bits of life less tedious.
+
 
 experience:
     show: true
@@ -93,6 +100,18 @@ experience:
         Previous to my career change, I worked extensively in the food & drink industry, both managing and developing products and businesses in retail and hospitality. The frustrations I had using the tech available to that sector were part of the motivation I used to seek a career in software development, coupled with my curiosity surrounding problem-solving, my furtive imagination, and my drive to make the tedious bits of life less tedious.
 
     items:
+        - company: Yearbook Machine
+          link:
+          tags: Development, Management
+          date: 2023 - 24
+          role: Junior Developer/Project Manager
+          location: Remote (London)
+          description: |
+              I joined Yearbook Machine on a short-term contract to handle smaller tickets and implement plans for
+              longer-term development. 
+              + I learned the codebase quickly, contributing my first fix within a month. In this case, using my experience with Cypress to improve their tests and CI pipeline.
+              + I undertook project management tasks, where I successfully executed plans for several medium-term projects that had been pending development. I was able to work alongside the other developers at the company to deliver four new features, and I completed my internship, leaving behind a strong foundation for the continuation of several other projects.
+
         - company: WD Restaurant Group, Fancett's Bistro, Meadows LTD, Culinaris & self-employed side-hustle SamBakes
           link:
           tags: Development, Management, Hospitality, Retail
@@ -130,7 +149,11 @@ project:
               + Back end written in Node.js with Express, interacting with a bespoke MongoDB database of cheeses as well as a collection for users and ratings
               + Collaborated with four other developers to deliver a full-stack app in two weeks.
               + [Front-end repo](https://github.com/iamsahm/cheese-frontend) [Back-end repo](https://github.com/iamsahm/cheese_api)
-
+        - name: Lighthouse Automation
+          link: "https://github.com/iamsahm/Lighthouse-BF"
+          tags: Automation, Reporting, Accessibility
+          description: |
+          A lightweight Javascript application that automates the running of Lighthouse reports on a list of URLs and outputs the results to an HTML file for easy sharing and comparison.
         - name: Gig List
           link: "https://github.com/iamsahm/gig-list"
           tags: Front-end, React, Vite
@@ -139,6 +162,10 @@ project:
               + Interactive favouriting feature implemented on single event page
               + Favourites stored in client-specific storage
               + [Deployed with Render](https://gig-list.onrender.com/)
+        - name: Dev Top Trumps
+          link: "https://github.com/iamsahm/top-trumps"
+          tags: Front-end, React
+          description: Work-in-progress browser card game that users can play to pit their hand of programming language cards against each other. 
 
 interest:
     show: true
@@ -158,7 +185,7 @@ evaluation:
     order: 13
     title: Self-evaluation
     description: |
-        I am a highly collaborative and communicative individual, I am extremely motivated by efficient problem-solving and seek to inspire as much as be inspired by a team. Comfortable in leadership roles as well as being a team player, I am always looking to learn in any aspect of my life. I am a strong believer in diverse teams and welcome input from any perspective. Despite my short time in the industry, I have a strong work ethic and a drive to excel.
+        I am a highly collaborative and communicative individual, I am extremely motivated by efficient problem-solving and seek to inspire as much as be inspired by a team. Comfortable in leadership roles as well as being a team player, I am always looking to learn in any aspect of my life. I am a strong believer in diverse teams and welcome input from any perspective. Although I am young in this industry, I have a strong work ethic, a drive to excel and a thirst for knowledge.
 
 education:
     show: true
