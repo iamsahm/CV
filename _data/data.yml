@@ -100,6 +100,7 @@ experience:
         Previous to my career change, I worked extensively in the food & drink industry, both managing and developing products and businesses in retail and hospitality. The frustrations I had using the tech available to that sector were part of the motivation I used to seek a career in software development, coupled with my curiosity surrounding problem-solving, my furtive imagination, and my drive to make the tedious bits of life less tedious.
 
     items:
+<<<<<<< HEAD
         - company: Yearbook Machine
           link:
           tags: Development, Management
@@ -113,8 +114,11 @@ experience:
               + I undertook project management tasks, where I successfully executed plans for several medium-term projects that had been pending development. I was able to work alongside the other developers at the company to deliver four new features, and I completed my internship, leaving behind a strong foundation for the continuation of several other projects.
 
         - company: WD Restaurant Group, Fancett's Bistro, Meadows LTD, Culinaris & self-employed side-hustle SamBakes
+=======
+        - company: WD Restaurant Group, Meadows LTD, Culinaris & side-hustle SamBakes
+>>>>>>> 33a62d9fa828a3b42074521a0c82cd4c209d8c60
           link:
-          tags: Development, Management, Hospitality, Retail
+          tags: Development, Management
           date: 2015 - 23
           role: General Manager
           location: East Anglia
